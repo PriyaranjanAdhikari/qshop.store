@@ -48,6 +48,27 @@ const products = [
         link: "https://amzn.to/47RZ4Fw",
     },
     {
+        name: "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Blue)",
+
+        image: "https://m.media-amazon.com/images/I/51waOv47fqL._SX679_.jpg",
+        price: "₹1999",
+        link: "https://amzn.to/4du3pju",
+    },
+    {
+        name: "Philips India's No.1 Men's Trimmer | Self Sharpening Blades | Single Stroke Grooming I 9 in1 Face, Nose and Body I 3 year warranty | Powerful motor | No Oil Needed I 60 min runtime",
+
+        image: "https://m.media-amazon.com/images/I/61ltqGr9XEL._SX679_.jpg",
+        price: "₹1449",
+        link: "https://amzn.to/3ZUFN46",
+    },
+    {
+        name: "Havells 1200W Powerful Hair Dryer|Overheat Protection|2 Heat Settings (Hot/Warm)|Heat Balance Technology|Premium Pink|Your Perfect Blow Dry Companion For Effortless Hair Styling",
+
+        image: "https://m.media-amazon.com/images/I/51EvVgRr4kL._SX679_.jpg",
+        price: "₹649",
+        link: "https://amzn.to/4eKpUkZ",
+    },
+    {
 
         name: "Amazfit Active 42mm AMOLED Smart Watch, Built in GPS, 14day Battery, 5ATM Water Resistant, for iOS & Android, Accurate Readings, BT Calls, Strava Support, Temperature Sensor, VO2 Max (Midnight Black)",
 
