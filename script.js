@@ -1,16 +1,42 @@
 const products = [
     {
-        name: "Joy Skin Fruits Spots & Tan Clear  (Papaya)(Pack of 4 x 50 ml) Men & Women All Skin Types Face Wash",
-        image: "https://rukminim1.flixcart.com/image/1100/750/xif0q/shopsy-face-wash/o/u/y/gel-200-skin-fruits-spots-tan-clear-face-wash-papaya-pack-of-4-x-original-imahyg28hy5gc7fv.jpeg?q=20&crop=false",
-        price: "₹235",
-        link: "https://www.shopsy.in/joy-skin-fruits-spots-tan-clear-papaya-pack-4-x-50-ml-men-women-all-types-face-wash/p/itm82a789236af7f?pid=YFHGF3ZKTZ36MGTW&cmpid=product.share.pp&_refId=PP.90d21df8-7e55-450b-be89-468814efd11f.YFHGF3ZKTZ36MGTW&_appId=CL",
+
+        name: "Amazfit Active 42mm AMOLED Smart Watch, Built in GPS, 14day Battery, 5ATM Water Resistant, for iOS & Android, Accurate Readings, BT Calls, Strava Support, Temperature Sensor, VO2 Max (Midnight Black)",
+
+        image: "https://m.media-amazon.com/images/I/61vyWLAQjnL._SX679_.jpg",
+        price: "₹7999",
+        link: "https://amzn.to/4ducmJq",
     },
     {
-        name: "Joy Vitamin C Glow Reviving & Skin Brightening Gel for Face & Body",
-        image: "https://rukminim1.flixcart.com/image/850/1000/kkvhea80/moisturizer-cream/x/6/b/vitamin-c-glow-reviving-skin-brightening-gel-for-face-body-joy-original-imagy4ghyzkqtj7f.jpeg?q=20&crop=false",
-        price: "₹184",
-        link: "https://www.shopsy.in/joy-vitamin-c-glow-reviving-skin-brightening-gel-face-body/p/itm0c6f57790b5fa?pid=MZMGQ4ZSMU4XPMVD&cmpid=product.share.pp&_refId=PP.c622da90-160c-4403-9e49-4adbe7e96e17.MZMGQ4ZSMU4XPMVD&_appId=CL",
+
+        name: "Samsung Galaxy M55s 5G (Coral Green,8GB RAM,128GB Storage) | 50MP Triple Cam| 5000mAh Battery| Snapdragon 7 Gen 1 | 4 Gen. OS Upgrade & 5 Year Security Update| Super AMOLED+ Display| Without Chargere| Super AMOLED+ Display| Without Charger",
+        image: "https://m.media-amazon.com/images/I/815LfTuu+vL._SX679_.jpg",
+        price: "₹17999",
+        link: "https://amzn.to/3Y7lKhS",
     },
+    {
+
+        name: "boAt Storm Call 3 w/Turn-by-Turn Navigation, 1.83” (4.6 cm) HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch Face Studio, Coins, Emergency SOS Smart Watch for Men & Women(Active Black)",
+
+        image: "https://m.media-amazon.com/images/I/61A9rFdBjtL._SX679_.jpg",
+        price: "₹999",
+        link: "https://amzn.to/4gPCL7C",
+    },
+    {
+        name: "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38” TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)",
+        image: "https://m.media-amazon.com/images/I/61TapeOXotL._SX679_.jpg",
+        price: "₹1199",
+        link: "https://amzn.to/3XLg8sd",
+    },
+    {
+
+        name: "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)",
+
+        image: "https://m.media-amazon.com/images/I/51FNnHjzhQL._SX679_.jpg",
+        price: "₹1298",
+        link: "https://amzn.to/3zxiwL9",
+    },
+
 ];
 
 let rewardPoints = 0;
