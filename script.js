@@ -7,11 +7,53 @@ const products = [
         link: "https://amzn.to/3zIt363",
     },
     {
+        name: "U-TURN Casual Shirt for Men || Shirt for Men Latest Stylish || Men Stylish Shirt || Men Printed Striped Shirt",
+
+        image: "https://m.media-amazon.com/images/I/61X9IXJrL6L._SY879_.jpg",
+        price: "₹398",
+        link: "https://amzn.to/4errJUi",
+    },
+    {
+        name: "SQUIRTLE Cotton Stylish Cute Printed Frock/Jabhla/Maxi Dress Combo for Baby Girls (Set of 4)",
+
+        image: "https://m.media-amazon.com/images/I/81aLQVWxtCL._SX679_.jpg",
+        price: "₹336",
+        link: "https://amzn.to/40bLStt",
+    },
+    {
         name: "amazon basics C12 12W Bluetooth Soundbar with 1200 mAh Battery | 2X Bass | Up to 12 hrs of Playback | Bluetooth 5.3, Aux & USB Connectivity (Black)",
 
         image: "https://m.media-amazon.com/images/I/71hlGt5UIlL._SX679_.jpg",
         price: "₹539",
         link: "https://amzn.to/3ZRmeK7",
+    },
+    {
+        name: "VGRASSP Mini Monster Trucks Friction Powered 360 Degree Stunt Cars for Kids - Push and Go Toddler Toys Inertia Car Toys",
+
+        image: "https://m.media-amazon.com/images/I/51LOCndm-SL._SX679_.jpg",
+        price: "₹71",
+        link: "https://amzn.to/3ZU13XL",
+    },
+    {
+        name: "Lavie Women's Monoprint Sherry Tote Bag | Ladies Purse Handbag",
+
+        image: "https://m.media-amazon.com/images/I/61c3p8W09EL._SY695_.jpg",
+        price: "₹1499",
+        link: "https://amzn.to/3YbgWIb",
+    },
+    {
+        name: "Kawn® Women Corduroy Tote Bag Canvas Shoulder Purse Reusable Shopping Bag Grocery Bag Large Capacity Washable Handbag Girls Shoulder Bag with Inner Pocket For Daily Use Work Travel",
+
+        image: "https://m.media-amazon.com/images/I/81KnWk0RplL._SX679_.jpg",
+        price: "₹387",
+        link: "https://amzn.to/3YbdHAl",
+    },
+{
+        name: "Safari Crescent 8 Wheels 56cm Small Cabin Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Ink Blue",
+
+        image: "https://m.media-amazon.com/images/I/61dgQVXzbvL._SX679_.jpg",
+        price: "₹1999",
+        link: "https://amzn.to/3ZUjmwe",
     },
     {
         name: "boAt Storm Call 3 w/Turn-by-Turn Navigation, 1.83” (4.6 cm) HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch Face Studio, Coins, Emergency SOS Smart Watch for Men & Women(Active Black)",
