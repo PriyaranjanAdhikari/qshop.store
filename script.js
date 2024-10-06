@@ -14,6 +14,20 @@ const products = [
         link: "https://amzn.to/4errJUi",
     },
     {
+        name: "Hopscotch Girls Knee Length Party Dresses",
+
+        image: "https://m.media-amazon.com/images/I/51QI9LpZkbL._SX679_.jpg",
+        price: "₹364",
+        link: "https://amzn.to/3TTnDMz",
+    },
+    {   
+        name: "boAt Airdopes 311 Pro Truly Wireless in Ear Ear Buds w/upto 50 HRS Playtime, Dual Mics with ENx™ Tech,",
+
+        image: "https://m.media-amazon.com/images/I/614gbl-O98L._SX679_.jpg",
+        price: "₹798",
+        link: "https://amzn.to/47ZzP4i",
+    },
+    {
         name: "SQUIRTLE Cotton Stylish Cute Printed Frock/Jabhla/Maxi Dress Combo for Baby Girls (Set of 4)",
 
         image: "https://m.media-amazon.com/images/I/81aLQVWxtCL._SX679_.jpg",
