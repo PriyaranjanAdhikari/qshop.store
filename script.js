@@ -7,6 +7,13 @@ const products = [
         link: "https://amzn.to/3zIt363",
     },
     {
+        name: "Mobile Holder Stand with Metal Body, Anti Skid Design, Light Weight for All Smartphones, Tablets, Kindle, iPad(Black)",
+
+        image: "https://m.media-amazon.com/images/I/51u2MqPaQwL._SL1200_.jpg",
+        price: "₹99",
+        link: "https://amzn.to/3YRs3GN",
+    },
+    {
         name: "U-TURN Casual Shirt for Men || Shirt for Men Latest Stylish || Men Stylish Shirt || Men Printed Striped Shirt",
 
         image: "https://m.media-amazon.com/images/I/61X9IXJrL6L._SY879_.jpg",
